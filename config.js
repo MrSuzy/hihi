@@ -1,20 +1,19 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: 'A Little Surprise for You',
+    introTitle: 'Hey, you.',
+    introDesc: `The world’s a big place,
+    and somehow our paths crossed.
+    Not sure if it’s fate or just timing,
+    but I\'m really glad we met.`,
+    btnIntro: 'Tap to continue 💬',
+    title: 'I\'ve got something to ask you.',
+    desc: 'No pressure, just read on...',
+    btnYes: 'I\'m listening 💛',
+    btnNo: 'Not right now 😅',
+    question: 'Would you like to spend some time with me this weekend?',
+    btnReply: 'Yes, I\'d love to 💌',
+    reply: 'Looking forward to it — just you and me.',
+    mess: 'I knew you\'d say yes 😊',
+    messDesc: 'I\'ll text you the plan. Can\'t wait to see you.',
+    btnAccept: 'Let\'s do it 💫'
 }
